@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T22:58:56.985Z" agent="5.0 (X11)" etag="5MVMeyo3SCoY624z1-iN" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T22:59:59.809Z" agent="5.0 (X11)" etag="67M5e1Oo6sUeZM74Qkd8" version="13.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2177" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,6 +194,12 @@
         </mxCell>
         <mxCell id="QyyP-Cfr2JZI9hmkc6V_-42" value="0..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="156" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QyyP-Cfr2JZI9hmkc6V_-43" value="Attacks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="156" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QyyP-Cfr2JZI9hmkc6V_-45" value="Uses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="156" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
